@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="380.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+   	  <ProgressBar fx:id="mainThreadPb" layoutX="120.0" layoutY="36.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd" layoutX="119.0" layoutY="75.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd1" layoutX="120.0" layoutY="116.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd2" layoutX="120.0" layoutY="159.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd4" layoutX="120.0" layoutY="240.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd3" layoutX="121.0" layoutY="197.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd5" layoutX="120.0" layoutY="282.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd6" layoutX="119.0" layoutY="322.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd7" layoutX="120.0" layoutY="360.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar fx:id="asd8" layoutX="119.0" layoutY="396.0" prefWidth="200.0" progress="0.0" />
+      <Label layoutX="24.0" layoutY="36.0" text="Ana Sunucu" />
+      <Label layoutX="23.0" layoutY="75.0" text="Alt Sunucu 1" />
+      <Label layoutX="24.0" layoutY="117.0" text="Alt Sunucu 2" />
+      <Label layoutX="24.0" layoutY="160.0" text="Alt Sunucu 3" />
+      <Label layoutX="24.0" layoutY="198.0" text="Alt Sunucu 4" />
+      <Label layoutX="23.0" layoutY="241.0" text="Alt Sunucu 5" />
+      <Label layoutX="24.0" layoutY="283.0" text="Alt Sunucu 6" />
+      <Label layoutX="23.0" layoutY="323.0" text="Alt Sunucu 7" />
+      <Label layoutX="24.0" layoutY="361.0" text="Alt Sunucu 8" />
+      <Label layoutX="23.0" layoutY="397.0" text="Alt Sunucu 9" />
+      <ProgressIndicator fx:id="pI1" layoutX="328.0" layoutY="27.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI2" layoutX="328.0" layoutY="66.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI3" layoutX="328.0" layoutY="108.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI4" layoutX="328.0" layoutY="151.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI5" layoutX="328.0" layoutY="188.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI6" layoutX="328.0" layoutY="232.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI7" layoutX="328.0" layoutY="273.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI8" layoutX="328.0" layoutY="314.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI9" layoutX="328.0" layoutY="351.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+      <ProgressIndicator fx:id="pI10" layoutX="328.0" layoutY="388.0" prefHeight="36.0" prefWidth="29.0" progress="0.0" />
+   </children>
+</AnchorPane>
